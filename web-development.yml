@@ -40,6 +40,8 @@
       - zsh
       - zsh-completions
       - zsh-syntax-highlighting
+      - node
+      - gulp
 
     # Tap external Homebrew Cask repositories.
     homebrew_cask_repositories:
@@ -67,3 +69,20 @@
       - sublime-text
       - vagrant
       - virtualbox
+      - karabiner
+      - github-desktop
+      - alfred
+      - sourcetree
+      - iterm2
+      - evernote
+      - xtrafinder
+      - kindle
+      - gyazo
+      - skitch
+      - notational-velocity
+      - tigervnc-viewer
+      - kobito
+      - atom
+      - sail
+      - sketch-toolbox
+      - versions
